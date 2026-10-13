@@ -1,0 +1,11 @@
+# --- never commit these (personal data) ---
+phones.txt
+call-config.txt
+call-last-id.txt
+*.wav
+*.log
+outbox/
+messages.json
+__pycache__/
+*.pyc
+.venv/

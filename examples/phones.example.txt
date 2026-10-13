@@ -1,0 +1,8 @@
+﻿# Phone-number alias table (local only -- never uploaded).
+# The server only ever writes an alias like "me"; the real number is resolved here,
+# so the number itself never travels over the public mailbox.
+# Any alias that is NOT listed here is refused (built-in whitelist).
+#
+# Copy to phones.txt and fill in your own numbers:
+me=1xxxxxxxxxx
+me2=1xxxxxxxxxx

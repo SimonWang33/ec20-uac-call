@@ -1,0 +1,6 @@
+﻿# Phone mailbox config. Copy to call-config.txt (next to phone_mailbox.py) and edit.
+# Your number stays on this computer only -- never uploaded.
+port=COM5
+phone=1xxxxxxxxxx
+script=ec20_uac_call.py
+url=https://your-server.example.com/phone-mailbox/messages.json
